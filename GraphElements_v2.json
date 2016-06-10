@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#0000ff",
+        "tipo": "Biblioteca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.15618467330932,
+          -29.794939377252962
+        ]
+      }
+    }
+  ]
+}
+
